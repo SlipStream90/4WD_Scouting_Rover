@@ -1,4 +1,4 @@
-# 🤖 4WD Skid-Steer Scouting Rover
+# 4WD Skid-Steer Scouting Rover
 ### Post-Earthquake Urban Search & Rescue Simulation
 
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-green)
 ![Platform](https://img.shields.io/badge/Platform-WSL2%20%2B%20WSLg-lightgrey)
 ---
-## 📋 Overview
+## Overview
 
 A fully simulated 4-wheeled skid-steer ground rover designed for scouting
 post-earthquake urban environments. The rover navigates through rubble,
@@ -19,7 +19,7 @@ narrow passages and uneven terrain while building a real-time map using SLAM.
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ Realistic 4WD skid-steer kinematics
 - ✅ Full URDF with real CAD mesh geometry (STL/DAE)
