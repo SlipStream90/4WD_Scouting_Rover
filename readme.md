@@ -10,7 +10,7 @@
 
 A fully simulated 4-wheeled skid-steer ground rover designed for scouting
 post-earthquake urban environments. The rover navigates through rubble,
-narrow passages and uneven terrain while building a real-time map using SLAM.
+narrow passages, and uneven terrain while building a real-time map using SLAM.
 
 **Based on:** Panther v0.2 CAD model (GrabCAD)
 **Drive type:** Skid-steer (tank-style, no steering axle)
