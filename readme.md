@@ -198,7 +198,7 @@ A 10×10 m bounded environment simulating urban earthquake damage:
 
 ## 🗺️ SLAM
 
-Real-time mapping using `slam_toolbox` async online mapper.
+Real-time mapping using the `slam_toolbox` async online mapper.
 
 ```bash
 # Launch with SLAM and RViz
